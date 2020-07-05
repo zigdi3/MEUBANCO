@@ -1,9 +1,9 @@
 # BANCO
 
 
-Banco é uma aplicação rest api que simula um banco básico
+Banco é uma aplicaçao rest api que simula um banco básico
 
-  - É possivel cadastrar usuarios e fazer transferencias entre contas
+  - É possível cadastrar usuários e fazer transferências entre contas
   - Extrato financeiro
 
-Ainda em desenvolmento
+Ainda em desenvolvimento
